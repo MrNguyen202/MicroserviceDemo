@@ -1,0 +1,10 @@
+/product-service/node_modules
+/product-service/.env
+
+/order-service/node_modules
+/order-service/.env
+
+/customer-service/node_modules
+/customer-service/.env
+
+/docker-compose.yml
